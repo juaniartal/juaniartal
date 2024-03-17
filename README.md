@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **ReactJS, PHP**
 
-- 👯 I’m looking to collaborate on **jobs where I put my knowledge into practice in the fullstack**
+- 👯 I’m looking to collaborate on **jobs where I put my knowledge into practice in the fullstack dev**
 
 - 💬 Ask me about **Frontend and backend**
 
