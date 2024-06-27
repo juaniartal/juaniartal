@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on **Bromteck**
 
-- 🌱 I’m currently learning **ReactJS, PHP**
+- 🌱 I’m currently learning **ReactJS, Python**
 
 - 👯 I’m looking to collaborate on **jobs where I put my knowledge into practice in the fullstack dev**
 
