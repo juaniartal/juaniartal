@@ -2,13 +2,13 @@
 <h1 align="center">Hi 👋, I'm Juan Artal</h1>
 <h3 align="center">I am passionate about programming and the IT world</h3>
 
-- 🔭 I’m currently working on **Bromteck**
+- 🔭 I’m currently working on **KOPIUS**
 
-- 🌱 I’m currently learning **ReactJS, Python**
+- 🌱 I’m currently learning **AWS, Terraform, Linux,**
 
-- 👯 I’m looking to collaborate on **jobs where I put my knowledge into practice in the fullstack dev**
+- 👯 I’m looking to collaborate on **jobs where I put my knowledge into practice in DevOps Or Full-stack-Developer**
 
-- 💬 Ask me about **Frontend and backend**
+- 💬 Ask me about **Programming**
 
 - 📫 How to reach me **juanignacio.artal@gmail.com**
 
