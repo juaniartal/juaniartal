@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Juan Artal</h1>
 <h3 align="center">I am passionate about programming and the IT world</h3>
 
-- 🔭 I’m currently working on **KOPIUS**
+- 🔭 I’m currently working on **AWS DevOps at Kopius**
 
-- 🌱 I’m currently learning **AWS, Terraform, Linux,**
+- 🌱 I’m currently learning **Azure - AWS**
 
-- 👯 I’m looking to collaborate on **jobs where I put my knowledge into practice in DevOps Or Full-stack-Developer**
+- 👯 I’m looking to collaborate on **jobs where I put my knowledge into practice in DevOps**
 
 - 💬 Ask me about **Programming**
 
