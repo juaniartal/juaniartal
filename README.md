@@ -62,7 +62,7 @@
 
 ---
 
-### 📜 Certifications (Recommended)
+### 📜 Certifications 
 
 - ✅ **AWS Cloud Practitioner**
 - ⏳ **Azure Fundamentals (AZ-900)**
