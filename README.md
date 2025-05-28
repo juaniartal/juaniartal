@@ -1,5 +1,5 @@
 <!-- Optional banner - replace with your own image or remove this line -->
-<img src="https://github.com/juanignaciodev/juanignaciodev/assets/your-image-id/banner.png" alt="Juan Artal Banner" width="100%">
+<!-- <img src="https://github.com/juanignaciodev/juanignaciodev/assets/your-image-id/banner.png" alt="Juan Artal Banner" width="100%">-->
 
 <h1 align="center">Hi 👋, I'm Juan Artal</h1>
 <h3 align="center">🚀 DevOps & Cloud Engineer | Software Engineering Enthusiast</h3>
