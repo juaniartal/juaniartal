@@ -73,10 +73,7 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=juanignaciodev&show_icons=true&theme=github_dark&hide=issues"/>
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=juanignaciodev&theme=github-dark"/>
-</p>
-
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=juaniartal&theme=dark&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=juaniartal&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 ---
